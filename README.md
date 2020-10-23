@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=fwznbg&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwznbg&layout=compact)](https://github.com/fwznbg/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwznbg&layout=compact)](https://github.com/fwznbg/Algeo01-19004)
