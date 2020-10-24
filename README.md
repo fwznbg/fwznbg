@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-📚 Informatics, Bandung Institute of Technology
-
 
 <!--
 **fwznbg/fwznbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +17,7 @@ Here are some ideas to get you started:
 -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=fwznbg&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwznbg)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwznbg)](https://github.com/anuraghazra/github-readme-stats)
+-->
+I'm currently studying at ITB majoring Informatics.
+I'm interested at Web Dev, Mobile Dev, and Data Science.
