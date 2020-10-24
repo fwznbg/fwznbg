@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwznbg)](https://github.com/anuraghazra/github-readme-stats)
 -->
 I'm currently studying at ITB majoring Informatics.
+
 I'm interested at Web Dev, Mobile Dev, and Data Science.
