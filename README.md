@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying at ITB majoring Informatics and interested at Web Dev, Mobile Dev, and Data Science.
+I'm Fawwaz and currently studying at ITB majoring Informatics. I'm passionate about Web Dev, Mobile Dev, and Data Science.
 <!--
 **fwznbg/fwznbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
