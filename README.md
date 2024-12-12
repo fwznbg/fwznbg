@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Fawwaz and currently studying at ITB majoring Informatics. I'm passionate about Web Dev and Data Science.
+I do programming.
 <!--
 **fwznbg/fwznbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
