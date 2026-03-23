@@ -1,24 +1,11 @@
-### Hi there 👋
+## Muhammad Fawwaz Naabigh
 
-I do programming.
-<!--
-**fwznbg/fwznbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer at **Gojek**.
 
-Here are some ideas to get you started:
+**Stack:** Go · PostgreSQL · Redis · Kafka · gRPC 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** distributed systems, system design, competitive programming
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=fwznbg&show_icons=true&theme=dracula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fwznbg-blue?logo=linkedin)](https://www.linkedin.com/in/fwznbg/)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fwznbg)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-Reach me at [LinkedIn](https://www.linkedin.com/in/fwznbg/)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fwznbg&show_icons=true&theme=dracula&hide_border=true)
