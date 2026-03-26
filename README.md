@@ -1,6 +1,6 @@
 ## Muhammad Fawwaz Naabigh
 
-Backend engineer at **Gojek**.
+Software engineer at **Gojek**.
 
 **Stack:** Go · PostgreSQL · Redis · Kafka · gRPC 
 
